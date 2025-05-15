@@ -1,4 +1,4 @@
-```markdown
+
 # C++ Array Utility Program
 
 This project is a simple C++ program that demonstrates various array operations using a modular design. The project is split into three files: a header file, an implementation file, and a main file. It allows the user to interact with an integer array using a menu-driven interface.
